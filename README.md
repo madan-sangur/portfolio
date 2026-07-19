@@ -21,16 +21,6 @@ styles.css
 script.js
 ```
 
-## Run Locally
-
-Clone the repository:
-
-```bash
-git clone https://github.com/madan-sangur/portfolio.git
-```
-
-Open `index.html` in your browser.
-
 ## License
 
 MIT
